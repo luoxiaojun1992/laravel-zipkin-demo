@@ -1168,12 +1168,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/luoxiaojun1992/laravel-zipkin.git",
-                "reference": "7296dcc42090a8f0f347f2ed9f385916eaeaee66"
+                "reference": "ee833e6816726c494c4662029b46ffe6d40dfce0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/luoxiaojun1992/laravel-zipkin/zipball/7296dcc42090a8f0f347f2ed9f385916eaeaee66",
-                "reference": "7296dcc42090a8f0f347f2ed9f385916eaeaee66",
+                "url": "https://api.github.com/repos/luoxiaojun1992/laravel-zipkin/zipball/ee833e6816726c494c4662029b46ffe6d40dfce0",
+                "reference": "ee833e6816726c494c4662029b46ffe6d40dfce0",
                 "shasum": ""
             },
             "require": {
@@ -1214,7 +1214,7 @@
                 "laravel",
                 "zipkin"
             ],
-            "time": "2019-04-24T14:21:25+00:00"
+            "time": "2019-04-26T06:59:37+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -4564,16 +4564,16 @@
         },
         {
             "name": "sebastian/environment",
-            "version": "4.1.0",
+            "version": "4.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/environment.git",
-                "reference": "6fda8ce1974b62b14935adc02a9ed38252eca656"
+                "reference": "3095910f0f0fb155ac4021fc51a4a7a39ac04e8a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/6fda8ce1974b62b14935adc02a9ed38252eca656",
-                "reference": "6fda8ce1974b62b14935adc02a9ed38252eca656",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/3095910f0f0fb155ac4021fc51a4a7a39ac04e8a",
+                "reference": "3095910f0f0fb155ac4021fc51a4a7a39ac04e8a",
                 "shasum": ""
             },
             "require": {
@@ -4588,7 +4588,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "4.1-dev"
+                    "dev-master": "4.2-dev"
                 }
             },
             "autoload": {
@@ -4613,7 +4613,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2019-02-01T05:27:49+00:00"
+            "time": "2019-04-25T07:55:20+00:00"
         },
         {
             "name": "sebastian/exporter",
