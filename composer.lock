@@ -1168,12 +1168,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/luoxiaojun1992/laravel-zipkin.git",
-                "reference": "799d2d3e282add64dd2b526117ec750f05335bd3"
+                "reference": "ff8b59df9dc118209b3edeb859107c4cd13d44c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/luoxiaojun1992/laravel-zipkin/zipball/799d2d3e282add64dd2b526117ec750f05335bd3",
-                "reference": "799d2d3e282add64dd2b526117ec750f05335bd3",
+                "url": "https://api.github.com/repos/luoxiaojun1992/laravel-zipkin/zipball/ff8b59df9dc118209b3edeb859107c4cd13d44c9",
+                "reference": "ff8b59df9dc118209b3edeb859107c4cd13d44c9",
                 "shasum": ""
             },
             "require": {
@@ -1214,7 +1214,7 @@
                 "laravel",
                 "zipkin"
             ],
-            "time": "2019-05-09T10:03:03+00:00"
+            "time": "2019-06-18T09:44:13+00:00"
         },
         {
             "name": "monolog/monolog",
